@@ -1,8 +1,9 @@
 # Bay-Area-Sports-Trivia
 Trivia game based on Bay Area sports teams
-* 10 second timer to answer questions
-* 8 questions
-* If wrong answered is chosen, correct answer will appear
+* 30 second timer to answer questions
+* 7 questions
+* Correct answer will highlight green
+* Wrong answer will highlight red
 * After all questions are submited player will recieve score card
 
 Technolody used:
@@ -10,5 +11,5 @@ Technolody used:
 * jquery
 * html
 * css
-* bootstap
+* bootstrap
 
